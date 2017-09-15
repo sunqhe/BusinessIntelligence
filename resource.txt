@@ -4,3 +4,6 @@ https://sonra.io/2017/05/15/dimensional-modeling-and-kimball-data-marts-in-the-a
 
 What are the Benefits of Graph Databases in Data Warehousing?
 https://sonra.io/2017/06/12/benefits-graph-databases-data-warehousing/
+
+Mapping AWS, Google Cloud, Azure Services to Big Data Warehouse Architecture:
+https://sonra.io/2017/06/28/mapping-big-data-warehouse-architecture-aws-google-cloud-azure/
