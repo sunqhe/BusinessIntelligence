@@ -1,1 +1,1 @@
-# BusinessIntelligence
+# Business Intelligence
